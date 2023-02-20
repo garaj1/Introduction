@@ -1,4 +1,5 @@
 <h1>Garaj1</h1>
+<p>Discover drivers, locations, vehicles and services with Garaj1.</p>
 <img src="garaj1-anasayfa.png" style="width:100%;height:auto;">
 
 <!--
