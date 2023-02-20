@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1>Garaj1</h1>
+<img src="garaj1-anasayfa.png" style="width:100%;height:auto;">
 
 <!--
 **garaj1/Garaj1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
